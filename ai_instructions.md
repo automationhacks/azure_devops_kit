@@ -7,6 +7,7 @@ Build an azure dev ops python CLI that is able to perform below operations using
 - Get all the test cases in an organization that satisfy a certain query
 - Identify a case has automated, manual or automatable and aggregate the counts daily and store in a CSV file
 - Plot a graph explaining the trend of test cases by these three categories
+- Add functional tests to check each of these methods
 
 ## Steps
 
